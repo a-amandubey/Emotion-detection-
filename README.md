@@ -1,2 +1,4 @@
-# Emotion-detection-
-This project is based on human emotions , it detect the emotions using facial expression at real time interval 
+# Face_Emotion_Recognition_Machine_Learning
+Face Emotion Recognition using Machine Learning Python
+
+Watch Tutorial :- https://www.youtube.com/watch?v=aoCIoumbWQY
